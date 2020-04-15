@@ -1,0 +1,4 @@
+<!DOCTYPE scan [
+    <!ENTITY test SYSTEM "target.xml">
+]><scan>&test;</scan>
+<--!   <!ENTITY test SYSTEM "/etc/passwd">  !-->
